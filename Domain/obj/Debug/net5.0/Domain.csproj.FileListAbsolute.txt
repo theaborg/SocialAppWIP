@@ -1,0 +1,12 @@
+/Users/theaborg/Desktop/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/theaborg/Desktop/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/theaborg/Desktop/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/theaborg/Desktop/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/theaborg/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
